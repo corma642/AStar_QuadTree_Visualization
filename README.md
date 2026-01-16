@@ -15,8 +15,7 @@
 | **프로젝트명** | AStar_QuadTree_Visualization |
 | **개발 기간** | 2025.08.26 ~ 2025.08.29 (약 3일) |
 | **개발 인원** | 1인 (개인 프로젝트) |
-| **개발 환경** | Windows Console (DOS) |
-| **주요 언어** | C++ |
+| **플랫폼** | Windows Console (DOS) |
 
 ---
 
@@ -25,8 +24,8 @@
 | 구분 | 사용 기술 |
 | :--- | :--- |
 | **언어** | **C++** |
-| **API** | **Windows Console API (WinAPI)** |
 | **IDE** | Visual Studio 2022 |
+| **API** | **Windows Console API (WinAPI)** |
 | **버전 관리** | Git |
 
 ---
