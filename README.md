@@ -15,7 +15,7 @@
 | **프로젝트명** | AStar_QuadTree_Visualization |
 | **개발 기간** | 2025.08.26 ~ 2025.08.29 (약 3일) |
 | **개발 인원** | 1인 (개인 프로젝트) |
-| **플랫폼** | Windows Console (DOS) |
+| **플랫폼** | Windows Console (WinAPI) |
 
 ---
 
